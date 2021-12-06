@@ -1,0 +1,56 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+/* Items por los cuales se mueve el navbar */
+#Quienes {
+    text-align: center;
+    color: white;
+    font-weight: 100;
+    font-size: 30px;
+}
+
+#Destacados {
+    text-align: center;
+    color: white;
+    font-weight: 100;
+    font-size: 30px;
+}
+
+#Contacto {
+    text-align: center;
+    color: black;
+    font-weight: 100;
+    font-size: 30px;
+}
+
+/* Detalles */
+
+.negro {
+    background-color: black;
+}
+
+.card-body {
+    background-color: black;
+}
+
+.centrar {
+    background-color:#4BCBCF;
+    text-align: center;
+}
+
+h5 {
+    font-weight: 100;
+}
+
+.celeste {
+    background-color: #4BCBCF;
+    font-weight: 100;
+}
+
+footer {
+    background-color: #4BCBCF;
+}
+.alinear {
+    text-align: center;
+}
